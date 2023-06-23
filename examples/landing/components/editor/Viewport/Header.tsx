@@ -60,9 +60,9 @@ export const Header = () => {
 
   return (
     <HeaderDiv className="header text-white transition w-full">
-      <div className="items-center flex w-full px-4 justify-end">
-        {enabled && (
-          <div className="flex-1 flex">
+            <div className="items-center flex w-full px-4 justify-end">
+              {enabled && (
+                <div className="flex-1 flex">
             <Tooltip title="Undo" placement="bottom">
               <Item disabled={!canUndo} onClick={() => actions.history.undo()}>
                 <UndoSvg />
