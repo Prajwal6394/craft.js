@@ -253,4 +253,4 @@ Craft.js is released under the [MIT license](https://github.com/prevwong/craft.j
 # To start the project in local machine
 cmd -> yarn run-p dev dev:site
 
-@todo - try to build pre-commit hook 
+<!-- Demo for pre commit hooks in code repo -->
