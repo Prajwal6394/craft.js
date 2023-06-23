@@ -254,3 +254,4 @@ Craft.js is released under the [MIT license](https://github.com/prevwong/craft.j
 cmd -> yarn run-p dev dev:site
 
 <!-- Demo for pre commit hooks in code repo -->
+<!-- Making some changes to readme file -->
